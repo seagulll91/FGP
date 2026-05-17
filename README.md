@@ -26,7 +26,8 @@ Expected layout:
 
 ```
 checkpoints/
-  canonicalization/   # IMU denoise
+  canonicalization/
+  GlobalPose/
   ASIP/
   LIP/
 ```
