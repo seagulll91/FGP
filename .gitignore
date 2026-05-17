@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Archives
+*.zip
+
+# Large binaries & model weights (download separately)
+Unity_exe/
+checkpoints/
+onnx_models/
+models/*.pkl
+models/*.npz
+*.pth
+*.pt
+*.onnx
+*.bin
+
+# Runtime / recorded data
+data_record/
+data/
+
+# Logs
+*.log
