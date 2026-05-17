@@ -19,7 +19,8 @@ Full-body IMU motion capture pipeline: real-time denoising, pose estimation (Glo
 | `online_fgp+LIP.py` | LIP (BiPoser) |
 
 ## Checkpoints (local)
-
+Checkpoints can be download at:
+https://www.dropbox.com/scl/fi/ammd22xtan9okwkb2mhxu/checkpoints.zip?rlkey=s8hzt6rrgqentmyop2tje1ndn&st=j2g9h5wg&dl=0
 Expected layout:
 
 ```
