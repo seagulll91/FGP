@@ -21,6 +21,7 @@ Full-body IMU motion capture pipeline: real-time denoising, pose estimation (Glo
 ## Checkpoints (local)
 Checkpoints can be download at:
 https://www.dropbox.com/scl/fi/ammd22xtan9okwkb2mhxu/checkpoints.zip?rlkey=s8hzt6rrgqentmyop2tje1ndn&st=j2g9h5wg&dl=0
+
 Expected layout:
 
 ```
@@ -29,3 +30,7 @@ checkpoints/
   ASIP/
   LIP/
 ```
+
+## Visualization
+Download the unity package from :
+https://www.dropbox.com/scl/fi/vsx4ee8rmgt5yi76eepwm/Unity_exe.zip?rlkey=nt7jleqalzrz2n57a7f5c6v9k&st=r5kns5lh&dl=0
